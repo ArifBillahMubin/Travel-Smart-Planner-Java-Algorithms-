@@ -63,6 +63,4 @@ Path: Rajshahi -> Dhaka
 ## Contributing
 Feel free to fork this project and contribute improvements!
 
-## License
-This project is open-source and available under the MIT License.
 
